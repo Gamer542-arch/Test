@@ -30,6 +30,8 @@
 
 # git push -u origin main (ps jak masz error to pewnie że za duże pliki tu masz komende żeby zainstalować odpowiedni program żeby nie było)
 
+# zrób save przed tym bo nwm czy nie wywali zapisz nwm gdzie indziej na pulpicie zipa nie mam zaufania 
+
 # git lfs install
 
 # git lfs track "Nyxify/**"
@@ -39,6 +41,7 @@
 # git add Nyxify
 
 # git lfs ls-files (Sprawdzenie)
+
 
 
 
