@@ -30,15 +30,16 @@
 
 # git push -u origin main (ps jak masz error to pewnie że za duże pliki tu masz komende żeby zainstalować odpowiedni program żeby nie było)
 
-#git lfs install
+# git lfs install
 
-#git lfs track "Nyxify/**"
+# git lfs track "Nyxify/**"
 
-#git add .gitattributes
+# git add .gitattributes
 
-#git add Nyxify
+# git add Nyxify
 
-#git lfs ls-files (Sprawdzenie)
+# git lfs ls-files (Sprawdzenie)
+
 
 
 
