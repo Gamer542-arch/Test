@@ -26,7 +26,8 @@
 
 # git branch -M main
 
-# git remote add origin https://github.com/CekolNotFound/Nyxify 
+# git remote add origin https://github.com/CekolNotFound/Nyxify (Tego Nie Kopiuj ale Nyxify To nazwa twojego repo musisz `to zmienić na innne jak masz inaczej repo nazwane)
 
 # git push -u origin main
+
 
