@@ -29,11 +29,17 @@
 # git remote add origin https://github.com/CekolNotFound/Nyxify (Tego Nie Kopiuj ale Nyxify To nazwa twojego repo musisz `to zmienić na innne jak masz inaczej repo nazwane)
 
 # git push -u origin main (ps jak masz error to pewnie że za duże pliki tu masz komende żeby zainstalować odpowiedni program żeby nie było)
+
 #git lfs install
+
 #git lfs track "Nyxify/**"
+
 #git add .gitattributes
+
 #git add Nyxify
+
 #git lfs ls-files (Sprawdzenie)
+
 
 
 
