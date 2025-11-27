@@ -43,25 +43,26 @@
 # git lfs ls-files (Sprawdzenie)
 
 # full Logs -:
-PS C:\Users\USERNAME\Downloads\Nowy folder> echo "# ns" >> README.md
-PS C:\Users\USERNAME\Downloads\Nowy folder> git init
-Initialized empty Git repository in C:/Users/USERNAME/Downloads/Nowy folder/.git/
-PS C:\Users\USERNAME\Downloads\Nowy folder> git add README.md
-PS C:\Users\USERNAME\Downloads\Nowy folder> git commit -m "first commit"
-[master (root-commit) 7c5d3fb] first commit
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 README.md
-PS C:\Users\USERNAME\Downloads\Nowy folder> git branch -M main
-PS C:\Users\USERNAME\Downloads\Nowy folder> git remote add origin https://github.com/Gamer542-arch/ns.git
-PS C:\Users\USERNAME\Downloads\Nowy folder> git push -u origin main
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 236 bytes | 236.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/Gamer542-arch/ns.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-PS C:\Users\USERNAME\Downloads\Nowy folder>
+#PS C:\Users\USERNAME\Downloads\Nowy folder> echo "# ns" >> README.md
+#PS C:\Users\USERNAME\Downloads\Nowy folder> git init
+#Initialized empty Git repository in C:/Users/USERNAME/Downloads/Nowy folder/.git/
+#PS C:\Users\USERNAME\Downloads\Nowy folder> git add README.md
+#PS C:\Users\USERNAME\Downloads\Nowy folder> git commit -m "first commit"
+#[master (root-commit) 7c5d3fb] first commit
+# 1 file changed, 0 insertions(+), 0 deletions(-)
+#create mode 100644 README.md
+#PS C:\Users\USERNAME\Downloads\Nowy folder> git branch -M main
+#PS C:\Users\USERNAME\Downloads\Nowy folder> git remote add origin https://github.com/Gamer542-arch/ns.git
+#PS C:\Users\USERNAME\Downloads\Nowy folder> git push -u origin main
+#Enumerating objects: 3, done.
+#Counting objects: 100% (3/3), done.
+#Writing objects: 100% (3/3), 236 bytes | 236.00 KiB/s, done.
+#Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+#To https://github.com/Gamer542-arch/ns.git
+#* [new branch]      main -> main
+#branch 'main' set up to track 'origin/main'.
+#PS C:\Users\USERNAME\Downloads\Nowy folder>
+
 
 
 
